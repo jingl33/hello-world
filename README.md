@@ -1,2 +1,2 @@
 # hello-world
-My firsdt repository
+My first repository
